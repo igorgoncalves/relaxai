@@ -17,7 +17,7 @@
                                     <span>Produtos, serviços e informações para sua saúde mental</span>
                                 </h1>
                                 <p class="lead  text-white">
-                                    Acesse o Relaxaí agora e comece a resgatar descontos em serviços psicologia, Yoga, Haikai e muitos outros.
+                                    Acesse o Relaxaí agora e comece a resgatar descontos em serviços psicologia, Yoga, Reiki e muitos outros.
                                 </p>
                                 <div class="btn-wrapper">
                                     <span></span>
@@ -74,8 +74,8 @@
                                 <card class="border-0" hover shadow body-classes="py-5">
                                     <icon name="ni ni-check-bold" type="primary" rounded class="mb-4">
                                     </icon>
-                                    <h6 class="text-primary text-uppercase">Catálogo de psicologos</h6>
-                                    <p class="description mt-3">Conheça psicologos na sua região, saiba o que seus paciênctes pensam dele e conheça sua abordagem.</p>
+                                    <h6 class="text-primary text-uppercase">Catálogo de psicólogos</h6>
+                                    <p class="description mt-3">Conheça psicólogos na sua região, saiba o que seus pacientes pensam dele e conheça sua abordagem.</p>
                                     <!-- <div>
                                         <badge type="primary" rounded>design</badge>
                                         <badge type="primary" rounded>system</badge>
@@ -134,7 +134,7 @@
                             <!-- <icon name="ni ni-settings-gear-65" class="mb-5" size="lg" type="success" shadow
                                   rounded></icon> -->
                             <h3>Como uma planta, você também precisa passar por cuidados</h3>
-                            <p>Cuidar de sí é viver melhor, assim como o corpo, a mente precisa de cuidados, vivêmos em tempos difíceis e queremos te ajudar a passar por eles.</p>
+                            <p>Cuidar de sí é viver melhor, assim como o corpo, a mente precisa de cuidados, vivemos em tempos difíceis e queremos te ajudar a passar por eles.</p>
                             <ul class="list-unstyled mt-5">
                                 <li class="py-2">
                                     <div class="d-flex align-items-center">
@@ -197,7 +197,7 @@
                                 <div class="pl-4">
                                     <h5 class="title text-success">Aprenda mais sobre sí</h5>
                                     <p>Além dos descontos, você ainda obtem informações sobre saúde mental e psicologia</p>
-                                    <a href="#" class="text-success">Ver mais</a>
+                                    <!-- <a href="#" class="text-success">Ver mais</a> -->
                                 </div>
                             </div>
                         </card>
@@ -211,7 +211,7 @@
                                     <h5 class="title text-warning">Conheça mais sobre psicologia</h5>
                                     <p>Como encontrar um bom psicologo? O que é terapia comportamental? Psicanálise? </p>
                                     <p>Conheça isso tudo e decida como e com qual profissional você quer dar esse grande passo no cuidado da sua mente.</p>
-                                    <a href="#" class="text-warning">Learn more</a>
+                                    <!-- <a href="#" class="text-warning">Learn more</a> -->
                                 </div>
                             </div>
                         </card>
@@ -354,7 +354,7 @@
                 <div class="row text-center justify-content-center">
                     <div class="col-lg-10">
                         <h2 class="display-3 text-white">Esperamos poder ajudar você nessa jornada</h2>
-                        <p class="lead text-white">Só precisamos que preencha o formulário, e então poderemos te conectar com vários serviços e psicologos que poderão te ajudar a ter uma vida melhor, para você e todos aqueles que ama.</p>
+                        <p class="lead text-white">Só precisamos que preencha o formulário, e então poderemos te conectar com vários serviços e psicólogos que poderão te ajudar a ter uma vida melhor, para você e todos aqueles que ama.</p>
                     </div>
                 </div>
                 <!-- <div class="row row-grid mt-5">
